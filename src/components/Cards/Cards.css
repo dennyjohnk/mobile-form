@@ -1,0 +1,15 @@
+.category-card-container {
+  padding: 10px;
+  cursor: pointer;
+  height: 110px;
+  margin-bottom: 15px;
+}
+
+.category-card-title {
+  margin-top: 10px;
+}
+.category-card-title-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
